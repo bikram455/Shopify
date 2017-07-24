@@ -93,7 +93,7 @@
       .newsletter-right-first{width: 67.45454545454545%;float: left;;padding-left: 28px;;background: #ebebeb}
       .newsletter-right-second{width: 27.45454545454545% ;float: right;}
 /*Footer*/
-.footer-wrapper{width: 100%;margin-top: 50px;font-family: 'Lato', sans-serif;}
+.footer-wrapper{width: 100%;margin-top: 50px;font-family: 'Lato', sans-serif;margin-bottom: 100px}
   .footer{max-width: 74.25em;margin: 0 auto}
     .footer-left{width: 32.65993265993266%;float: left;}
       .footer-left-first{width: 56.70103092783505%;float: left;}
