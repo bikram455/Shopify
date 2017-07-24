@@ -1,0 +1,72 @@
+.h-left-right ul{list-style: none;font-family: arial;font-size: 13px;padding-top: 38px}
+  .h-left-right ul li{display: inline;}
+  .h-left-right ul li:first-of-type{padding-left: 0}
+  .h-left-right ul li:last-of-type{padding-right: 0}
+  	.h-list a{text-decoration: none;color: #444444;padding-top: 12px;display: inline-block;padding-left: 14px;padding-right: 14px;padding-bottom: 12px}
+  	#first{padding-left: 0;}
+  	#last{padding-right: 0}
+  	.h-list a:hover{background: cadetblue}
+  .text-box{height: 14px;width: 67.89667896678967%;border: none;font-size: 12px;color: #666666}
+.h-right-left ul{list-style: none;padding-top: 14px;padding-bottom: 10px;border: 1px solid #f0f0f0}
+  .h-right-left ul li{display: inline;padding-left: 12px;padding-right: 12px}
+  .click{height: 21px;width: 21px;background: url("../images/search.png");border: none}
+.h-right-right ul{list-style: none;/*padding-top: 45px*/;font-size: 14px }
+  .h-right-right ul li{display: inline;/*padding-left: 20px;padding-right: 20px;*/line-height: 20px;font-size: 12px}
+  .h-right-right ul li:first-of-type{float: left;}
+  .h-right-right ul li:last-of-type{float: right;}
+  .h-right-right a{color: #444444;padding-top: 43px;padding-bottom: 36px;display: inline-block;}
+#qty1,#qty2{height: 28px;width: 50px;}
+.order-mid ul{list-style: none;}
+.order-mid a{color: #858585;text-decoration: none;}
+  .order-mid-links a{color: #f53333;}
+  #checkout{height: 39px;padding-left: 35px;padding-right: 35px;background: #6aa831;color: #ffffff;border: none;}
+  .view-order-list a{text-decoration: none;color: #8f8f8f}
+.side-bar{}
+#id{width: 78px;height: 25px}
+.side-bar-list ul{list-style: none;}
+.side-bar-list ul li{}
+#view{height: 25px;border: 1px solid #e3e3e3;background: #ffffff;padding-left: 8px;padding-right: 8px}
+.side-bar-list ul li:first-of-type{padding-top: 9px;}
+.side-bar-list ul li:last-of-type{padding-bottom: 15px;}
+#side-bar-list-icon{float: right;padding-right: 16px}
+.side-bar-list a{text-decoration: none;color: #333333;display: block;padding-left: 28px;padding-top: 9px;padding-bottom: 9px}
+.side-bar-list a:hover{background: #f9f9f9}
+.side-bar-hover a{text-decoration: none;padding: 9px 16px;display: block;font-size: 12px;color: #333333;}
+.side-bar-hover a:hover{background: #f9f9f9}
+.side-bar-hover ul{list-style: none;}
+#last-link{padding-bottom: 15px}
+#link-with-icon{padding-right: 0 }
+#side-bar-hover-icon{float: right;padding-right: 8px}
+.tagline h1{font-family: 'Lato', sans-serif;font-weight: normal;}
+#leftarrow{height: 30px; width: 21px;background: url("../images/larrow.png");border:none;}
+#rightarrow{height: 30px; width: 21px;background: url("../images/rarrow.png");border:none;}
+/*Welcome Board*/
+.welcome-top-content-left-heading a,h1{font-family: arial;display: inline;font-size: 36px}
+/*Products*/
+#product-view-all{height: 26px;padding-left: 12px;padding-right: 14px;background: #ffffff;font-size: 11px;border-radius: 3px;border:0.5px solid #e5e5e5;}
+
+#add-to-list1,#add-to-list2,#add-to-list3,#add-to-list4,#add-to-list5{width: 100%;height: 30px;background: #f7f7f7;border-radius: 3px;color: #666666;border:0.5px solid #e4e4e4;}
+/*.products-bot ul{list-style: none;}*/
+.products-bot ul{list-style: none;}
+.products-bot ul li{float: left;padding-left: 35px;padding-right: 35px}
+.products-bot ul li:first-of-type{padding-left: 28px}
+.products-bot ul li:last-of-type{padding-right: 28px}
+#product-add{width: 100%;height: 32px}
+/*Suppliers */
+.suppliers-bot ul{list-style: none;}
+.suppliers-bot ul li{display: inline;}
+.suppliers-bot ul li:first-of-type{padding-left: 29px}
+/*Newsletter*/
+#newsletter-button{width: 100%;height: 56px;background: #486100;border: none;color: #ffffff}
+#newsletter-text{width: 100%;height: 56px;background: #ebebeb;border: none;opacity: 0.3}
+/*FOOTER*/
+.footer-right-first a{color: 707070;text-decoration: none;font-size: 14px}
+.footer-right-first ul{list-style: none}
+.footer-right-first ul li{padding-top: 10px;padding-bottom: 10px}
+.footer-right-first ul li:first-of-type{padding-top: 6px}
+.footer-right-second ul li{display: inline;padding-right: 7px;padding-left: 7px;}
+.footer-right-second ul li:first-of-type{padding-left: 0}
+.footer-right-second ul li:last-of-type{padding-right: 0}
+.f-right-first-right a,.f-right-first-left a{color: #707070}
+/**/
+input:focus{outline: none;}
